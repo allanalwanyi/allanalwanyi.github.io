@@ -1,0 +1,102 @@
+/*abouts*/
+.h1
+		{
+			text-align: center;
+			color: #ff0000;
+		}
+		.h2
+		{
+			margin-left: 20px;
+		}
+		.a
+		{
+			background-color:  #b3b3ff;
+			height: 900px;
+			margin: 10px;
+		}
+		.info
+		{
+			margin: 20px;
+		}
+		.i
+		{
+			width: 100%;
+			height: 200px;
+			margin-top: 10px;
+		}
+		.nav
+		{
+			margin-bottom: 10px;
+		}
+
+
+/*archievements*/
+
+
+.h
+		{
+			text-align: center;
+			color: #003300;
+			font-size: 2em;
+		}
+		.x
+		{
+			background-color: #99cc00;
+		}
+		.p
+		{
+			margin: 20px;
+
+		}
+		.k
+		{
+			height: 50px;
+			width: 40%;
+		}
+		.body
+		{
+			background-color: green;
+		}
+		
+/*gallary*/
+
+
+		.d
+		{
+			width: 100%;
+			height: 300px;
+			margin: 20px;
+		}
+		.gallery
+		{
+			background-color:  #c68c53;
+		}
+
+
+/*contactme*/
+
+.h
+		{
+			text-align: center;
+			color: #003300;
+			font-size: 2em;
+		}
+		.x
+		{
+			background-color: #99cc00;
+		}
+		.p
+		{
+			margin: 20px;
+
+		}
+/*footer*/
+.footer
+{
+	background-color: #660033;
+	text-align: center;
+	font-size: 2em;
+	height: 70px;
+	color: #000066;
+	margin: 10px;
+}
